@@ -1,0 +1,25 @@
+.heading-style {
+    color: #333;; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px; 
+}
+
+.paragraph-style {
+    color: #666; 
+    font-family: 'Helvetica', sans-serif; 
+    font-size: 16px; 
+    line-height: 1.5; 
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.box1{
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ /}
